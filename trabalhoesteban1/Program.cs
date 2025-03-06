@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-namespace Exercicio1
-{
+namespace 1157
     internal class Program
     {
         static void Main(string[] args)
